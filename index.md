@@ -44,10 +44,7 @@ Full publication list is also available on [Google Scholar](https://scholar.goog
 
 ## Software and Code
 I maintain open-source tools that accompany my research projects and support collaborative computation.
-
-- [cocalc-docker](https://github.com/mathxie/cocalc-docker) — Docker setup for running CoCalc locally, enabling reproducible computational experiments.
 - [kl_uniform_matroid](https://github.com/mathxie/kl_uniform_matroid) — Mathematica resources for studying Kazhdan-Lusztig polynomials of uniform matroids.
-- [Mathematica-packages](https://github.com/mathxie/Mathematica-packages) — Packages for computations with symmetric functions and combinatorics.
 - [uniform_log-concave](https://github.com/mathxie/uniform_log-concave) — Code supporting the study of log-concavity for Kazhdan-Lusztig polynomials of uniform matroids.
 
 ## Contact
