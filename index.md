@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# MathXie 的开发笔记
 
-You can use the [editor on GitHub](https://github.com/mathxie/mathxie.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎来到 MathXie 的个人网站！这里记录了我在软件开发与数据科学道路上的成长历程，也分享实践中的经验、灵感与心得。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 导航
+- [关于本站](#关于本站)
+- [项目一览](#项目一览)
+- [文章与资源](#文章与资源)
+- [联系我](#联系我)
 
-### Markdown
+## 关于本站
+我相信持续学习与分享是推动技术社区成长的关键。本网站将定期更新最新的学习笔记、开发技巧与工具使用心得，让读者能够快速掌握重点、少走弯路。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 项目一览
+- **算法可视化平台**：借助交互式图表展示常见算法的运行过程，帮助初学者理解复杂概念。
+- **数据分析仪表板**：整合多来源数据并提供动态报表，为业务决策提供即时报表支持。
+- **开源 CLI 工具集**：封装常用脚本命令，提升日常开发效率。
 
-```markdown
-Syntax highlighted code block
+## 文章与资源
+- [前端性能优化实战](/posts/frontend-performance) —— 梳理关键指标与优化策略，附上可复用的检查清单。
+- [Python 数据清洗技巧](/posts/python-cleaning) —— 介绍 Pandas 与 Polars 的进阶用法。
+- [年度学习路线图](/posts/learning-roadmap) —— 分享未来一年计划攻克的技术与书单。
 
-# Header 1
-## Header 2
-### Header 3
+## 联系我
+如果你有合作机会、问题或想交流想法，欢迎发送邮件至 [hi@mathxie.dev](mailto:hi@mathxie.dev)，或在 [GitHub](https://github.com/mathxie) 上关注我。也期待你订阅本站以获得最新文章更新。
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mathxie/mathxie.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
